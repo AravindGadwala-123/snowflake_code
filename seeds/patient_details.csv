@@ -1,0 +1,6 @@
+PATIENT_ID,PHONE,EMAIL,BLOOD_GROUP
+P001,9876543210,ravi.kumar@example.com,A+
+P002,9876543211,anjali.sharma@example.com,B+
+P003,9876543212,john.smith@example.com,O+
+P004,9876543213,priya.reddy@example.com,AB+
+P005,9876543214,david.brown@example.com,O-

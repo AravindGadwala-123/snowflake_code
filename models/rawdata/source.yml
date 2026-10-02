@@ -6,3 +6,10 @@ sources:
     schema: RAW_SCHEMA
     tables:
       - name: PRODUCTS
+      - name: CUSTOMERS
+      - name: PATIENTS
+      - name: PROVIDERS
+      - name: APPOINTMENTS
+      - name: INSURANCE
+      - name: CLAIMS
+      - name: PAYMENTS
